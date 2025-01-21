@@ -2,6 +2,10 @@
 
 - 📖 [Remix docs](https://remix.run/docs)
 
+## Env
+
+Change example.env into .env and add your api key into .env
+
 ## Development
 
 Run the dev server:
